@@ -29,6 +29,7 @@
 
 
 ## Technologies Used
+
 -Python - version 3.12.2
 -Jupyter Notebook - 7.4.2
 -Anaconda - 2023.10
